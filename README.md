@@ -50,7 +50,22 @@ const person: User | Employee = {
 
 - A type alias is exactly that - a name for any type
 - Reusable, export import, can be extended, optional params
+- https://www.typescriptlang.org/docs/handbook/2/everyday-types.html#type-aliases
 
 ```js
 type ID = number | string;
 ```
+
+## Interface
+
+- https://www.typescriptlang.org/docs/handbook/2/everyday-types.html#interfaces
+
+## Union Types, Literal Types and Enums
+
+- https://www.typescriptlang.org/docs/handbook/2/everyday-types.html#union-types
+- https://www.typescriptlang.org/docs/handbook/2/everyday-types.html#literal-types
+- https://www.typescriptlang.org/docs/handbook/2/everyday-types.html#enums
+
+## Generics
+
+- https://www.typescriptlang.org/docs/handbook/2/generics.html#handbook-content

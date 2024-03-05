@@ -155,7 +155,7 @@ const obj1: Obj1 = {
     zip: 4000,
 }
 
-// Type alias if you don't know obj parameters in advance
+// Type alias if you don't know obj parameters in advance -> index signature: https://dmitripavlutin.com/typescript-index-signatures/
 type Obj1 = {
     [key: string]: string | number
 }
